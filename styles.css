@@ -1,0 +1,71 @@
+/* Reset */
+* {
+    box-sizing: border-box;
+    margin: 0;
+    font-family: 'Nunito', sans-serif;
+
+}
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    
+}
+
+/* Titre de la page */
+h1 {
+    text-align: center;
+    padding: 20px;
+    font-size: 2em;
+    color: #333;
+}
+
+/* Timeline Container */
+.timeline {
+    display: flex;
+    flex-wrap: nowrap;
+    padding: 20px;
+    max-width: 90%;
+    margin: 0 auto;
+    overflow-x: auto; /* Défilement horizontal */
+    background-color: #fff;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.event-container {
+    height: 70px; /* Augmenter la taille des événements pour plus de lisibilité */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    margin: 0 10px;
+    position: relative;
+    padding: 10px;
+    transition: transform 0.3s ease;
+}
+
+.event-container:hover {
+    transform: scale(1.05);
+}
+
+/* Event Details */
+#event-details {
+    margin-top: 20px;
+    padding: 15px;
+    max-width: 500px;
+    width: 90%;
+    margin: 20px auto 0;
+    border: 1px solid #ccc;
+    background-color: #ffffff;
+    font-size: 16px;
+    color: #333;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+    display: none;
+    text-align: center;
+    overflow-y: auto;
+    max-height: 300px;
+}
