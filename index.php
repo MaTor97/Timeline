@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Timeline</title>
     <link rel="stylesheet" href="styles.css">
-    <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Macondo" rel="stylesheet">
 </head>
 <body>
     <h1>Timeline Tortora Matteo</h1>
@@ -84,7 +84,7 @@
             "2000-09", 
             "Naissance à Chieti en Italie. Mes parents ont choisi de s'installer en Belgique pour bénéficier d'opportunités professionnelles plus nombreuses.", 
             "Italie et Belgique",
-            ["Déplacements", "Communication", "Découverte culturelle", "Persévérance", "Italien"]
+            ["Psycho-motricité", "Communication", "Polymathie", "Empathie", "Italien"]
         );
 
         $eventManager->addEvent(
@@ -100,21 +100,13 @@
             "2015-06", 
             "Éducation secondaire à l'Athénée Royal Orsini Dewerpe. Parcours académique diversifié : option latin pour renforcer les bases linguistiques et analytiques, puis spécialisation en mécanique automobile pour développer des compétences techniques.", 
             "Jumet",
-            ["Raisonnement logique", "Compétences techniques", "Discipline", "Adaptabilité", "Gestion du temps", "Anglais", "Néerlandais"]
-        );
-        
-        $eventManager->addEvent(
-            "2015-05-30", 
-            "2015-06-30", 
-            "Obtention du Certificat d'Études Secondaires Inférieures (CESI) et certificat de gestion de base, validant les compétences fondamentales nécessaires pour évoluer dans un cadre professionnel.", 
-            "Jumet",
-            ["Gestion de projet", "Communication professionnelle", "Leadership", "Organisation", "Prise de décision"]
+            ["Raisonnement logique", "Compétences techniques", "Discipline", "CESI", "Certicat de connaissances de gestion de base", "Anglais", "Néerlandais"]
         );
         
         $eventManager->addEvent(
             "2015-09", 
             "2016-06", 
-            "Année dédiée à l'étude approfondie de la musique : apprentissage de plusieurs instruments (guitare, piano, violoncelle) et acquisition des bases en solfège, démontrant un esprit créatif et discipliné.", 
+            "Année dédiée à l'étude approfondie de la musique : apprentissage de plusieurs instruments (guitare, piano, violoncelle) et perfectionnement du bases en solfège. (Le but était de préparer l'entrée au conservatoire Royal)", 
             "Jumet, Lodelinsart, Charleroi",
             ["Créativité", "Discipline", "Écoute active", "Précision", "Gestion de l'effort"]
         );
@@ -124,7 +116,7 @@
             "2017-01", 
             "Formation en mixologie et service client à la Rhumerie de Charleroi, acquérant des compétences clés en gestion de bar, communication et satisfaction client.", 
             "Charleroi",
-            ["Service client", "Gestion de bar", "Communication", "Travail sous pression", "Sens de l'organisation"]
+            ["Service client", "Gestion de bar", "Communication", "Travail sous pression", "Sens de l'organisation", "Gestion de caisse"]
         );
         
         $eventManager->addEvent(
@@ -185,19 +177,12 @@
         
         $eventManager->addEvent(
             "2024-09", 
-            "2024-12", 
+            "2025-03", 
             "Formation intensive chez BeCode, avec une immersion dans le développement web full-stack : apprentissage approfondi de JavaScript, Node.js, React, et des bases solides en HTML, CSS et SQL.", 
             "Charleroi",
             ["Développement web", "JavaScript", "Node.js", "React", "HTML", "CSS", "SQL"]
         );
         
-        $eventManager->addEvent(
-            "2025-01", 
-            "2025-01", 
-            "Formation en alternance en développement web chez BeCode. Rôle : appliquer les connaissances en développement web à des projets concrets.", 
-            "Charleroi",
-            ["Formation continue", "Projets concrets", "Développement web", "Collaboration", "Innovation"]
-        );
         
 
         $eventManager->renderEvents();
@@ -207,7 +192,7 @@
         <header id="event-start"></header> <br>
         <main id="event-description"></main> <br>
         <ul id="event-skills-list"></ul> <br>
-        <footer id="event-location"></foote>
+        <footer id="event-location"></footer>
     </div>
 
 
