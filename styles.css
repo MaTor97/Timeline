@@ -55,7 +55,6 @@ h1 {
 /* Event Details */
 #event-details {
     margin-top: 20px;
-    padding: 15px;
     max-width: 500px;
     width: 90%;
     margin: 20px auto 0;
@@ -67,5 +66,30 @@ h1 {
     display: none;
     text-align: center;
     overflow-y: auto;
-    max-height: 300px;
+
+    header {
+        background-color: #210457;
+        color: #fff;
+        width: 100%;
+    }
+
+    main {
+        padding: 20px;
+        text-align: left;
+    }
+
+    ul {
+        text-align: left;
+        list-style: none;
+        padding: 0;
+        margin-left: 40px;
+    }
+
+    footer {
+        background-color: #210457;
+        color: #fff;
+        width: 100%;
+        text-align: right;
+        padding-right: 20px;
+    }
 }
