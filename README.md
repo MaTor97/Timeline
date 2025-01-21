@@ -11,13 +11,12 @@ Ce projet consiste en une **timeline interactive** représentant mon parcours pr
 ## Technologies utilisées
 
 - **HTML/CSS :** Pour structurer et styliser la page web.
-- **PHP :** Pour générer dynamiquement les événements sur la timeline.
 - **JavaScript :** Pour gérer l'interaction avec la timeline et afficher les informations au survol d'un événement.
 - **CSS Flexbox :** Pour disposer les éléments de manière responsive et fluide.
 
 ## Structure du projet
 
-1. **index.php :** Le fichier principal contenant la structure de la page et l'intégration de la logique PHP pour générer les événements.
+1. **index.html :** Le fichier principal contenant la structure de la page.
 2. **styles.css :** Le fichier CSS contenant tous les styles de la timeline et de la page.
 3. **script.js :** Le fichier JavaScript qui gère les interactions (survol des événements, affichage des détails).
 4. **README.md :** Ce fichier, contenant des informations sur le projet.
