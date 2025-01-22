@@ -1,0 +1,282 @@
+{
+    "fr": [
+        {
+            "start": "1997-01",
+            "end": "2000-09",
+            "description": "Naissance à Chieti en Italie. Mes parents ont choisi de s'installer en Belgique pour bénéficier d'opportunités professionnelles plus nombreuses.",
+            "location": "Italie et Belgique",
+            "skills": ["Psycho-motricité", "Communication", "Polymathie", "Empathie", "Italien"]
+        },
+        {
+            "start": "2000-09",
+            "end": "2009-06",
+            "description": "Éducation primaire à l'Athénée Royal Orsini Dewerpe. Développement des bases fondamentales en mathématiques, sciences et langues.",
+            "location": "Jumet",
+            "skills": ["Pensée analytique", "Calcul", "Communication", "Travail en équipe", "Créativité", "Français"]
+        },
+        {
+            "start": "2009-09",
+            "end": "2015-06",
+            "description": "Éducation secondaire à l'Athénée Royal Orsini Dewerpe. Parcours académique diversifié : option latin pour renforcer les bases linguistiques et analytiques, puis spécialisation en mécanique automobile pour développer des compétences techniques.",
+            "location": "Jumet",
+            "skills": ["Raisonnement logique", "Compétences techniques", "Discipline", "CESI", "Certificat de connaissances de gestion de base", "Anglais", "Néerlandais"]
+        },
+        {
+            "start": "2015-09",
+            "end": "2016-06",
+            "description": "Année dédiée à l'étude approfondie de la musique : apprentissage de plusieurs instruments (guitare, piano, violoncelle) et perfectionnement des bases en solfège. (Le but était de préparer l'entrée au conservatoire Royal)",
+            "location": "Jumet, Lodelinsart, Charleroi",
+            "skills": ["Créativité", "Discipline", "Écoute active", "Précision", "Gestion de l'effort"]
+        },
+        {
+            "start": "2016-07",
+            "end": "2017-01",
+            "description": "Formation en mixologie et service client à la Rhumerie de Charleroi, acquérant des compétences clés en gestion de bar, communication et satisfaction client.",
+            "location": "Charleroi",
+            "skills": ["Service client", "Gestion de bar", "Communication", "Travail sous pression", "Sens de l'organisation", "Gestion de caisse"]
+        },
+        {
+            "start": "2017-01",
+            "end": "2018-06",
+            "description": "Missions intérimaires chez Cora Châtelineau, principalement dans la logistique et la gestion des stocks, où l'accent a été mis sur l'organisation et le respect des délais serrés.",
+            "location": "Châtelineau",
+            "skills": ["Organisation", "Gestion des stocks", "Rigueur", "Efficacité", "Respect des délais"]
+        },
+        {
+            "start": "2018-07",
+            "end": "2018-10",
+            "description": "Formation en menuiserie avec l'IFAPME chez Mordant et Fils, développant des compétences pratiques en fabrication et assemblage de structures en bois.",
+            "location": "Jumet",
+            "skills": ["Compétences techniques", "Précision", "Travail manuel", "Autonomie", "Sécurité"]
+        },
+        {
+            "start": "2019-01",
+            "end": "2021-10",
+            "description": "Expérience polyvalente en restauration à La Rustica : gestion de salle, préparation culinaire et mixologie. Compétences clés : travail d'équipe, gestion de la clientèle et gestion des priorités en période de forte affluence.",
+            "location": "Thuillies",
+            "skills": ["Travail d'équipe", "Gestion de la clientèle", "Polyvalence", "Gestion des priorités", "Réactivité"]
+        },
+        {
+            "start": "2021-10",
+            "end": "2022-05",
+            "description": "Période de recherche active d'un emploi correspondant à mes compétences et aspirations professionnelles, explorant différentes industries et opportunités dans les régions de Charleroi et Thuin.",
+            "location": "Charleroi, Thuin et alentours",
+            "skills": ["Stratégie de recherche", "Adaptabilité", "Persévérance", "Autonomie", "Développement web", "Perfectionnement Anglais"]
+        },
+        {
+            "start": "2022-05",
+            "end": "2023-04",
+            "description": "Poste d'oxycoupeur chez Industeel ArcelorMittal. Responsabilités : découpe précise de métaux, respect des normes de sécurité, et optimisation des processus de production.",
+            "location": "Marchiennes-au-Pont",
+            "skills": ["Précision", "Sécurité", "Optimisation", "Travail d'équipe", "Rigueur", "Permis B"]
+        },
+        {
+            "start": "2023-09",
+            "end": "2024-03",
+            "description": "Opérateur de production chez The Juicy Group. Rôle : supervision des machines de production, contrôle qualité des produits et suivi des normes d’hygiène alimentaire.",
+            "location": "Leval-Trahegnies",
+            "skills": ["Contrôle qualité", "Suivi des normes", "Polyvalence", "Organisation", "Efficacité"]
+        },
+        {
+            "start": "2024-03",
+            "end": "2024-08",
+            "description": "Missions intérimaires chez Easy Fence. Participation à l'installation et à la maintenance de structures de clôtures. Démonstration de polyvalence et d'efficacité sur le terrain.",
+            "location": "Gosselies",
+            "skills": ["Polyvalence", "Maintenance", "Efficacité", "Travail d'équipe", "Gestion du temps"]
+        },
+        {
+            "start": "2024-09",
+            "end": "2025-03",
+            "description": "Formation intensive chez BeCode, avec une immersion dans le développement web full-stack : apprentissage approfondi de JavaScript, Node.js, React, et des bases solides en HTML, CSS et SQL.",
+            "location": "Charleroi",
+            "skills": ["Développement web", "JavaScript", "Node.js", "React", "HTML", "CSS", "SQL"]
+        }
+    ],
+    "it": [
+        {
+            "start": "1997-01",
+            "end": "2000-09",
+            "description": "Nascita a Chieti in Italia. I miei genitori hanno scelto di trasferirsi in Belgio per sfruttare opportunità professionali migliori.",
+            "location": "Italia e Belgio",
+            "skills": ["Psicomotricità", "Comunicazione", "Polimatia", "Empatia", "Italiano"]
+        },
+        {
+            "start": "2000-09",
+            "end": "2009-06",
+            "description": "Educazione primaria presso l'Athénée Royal Orsini Dewerpe. Sviluppo delle basi fondamentali in matematica, scienze e lingue.",
+            "location": "Jumet",
+            "skills": ["Pensiero analitico", "Calcolo", "Comunicazione", "Lavoro di squadra", "Creatività", "Francese"]
+        },
+        {
+            "start": "2009-09",
+            "end": "2015-06",
+            "description": "Educazione secondaria presso l'Athénée Royal Orsini Dewerpe. Percorso accademico diversificato: opzione latino per rafforzare le basi linguistiche e analitiche, poi specializzazione in meccanica automobilistica per sviluppare competenze tecniche.",
+            "location": "Jumet",
+            "skills": ["Ragionamento logico", "Competenze tecniche", "Disciplina", "CESI", "Certificato di conoscenza della gestione di base", "Inglese", "Olandese"]
+        },
+        {
+            "start": "2015-09",
+            "end": "2016-06",
+            "description": "Anno dedicato allo studio approfondito della musica: apprendimento di vari strumenti (chitarra, pianoforte, violoncello) e perfezionamento delle basi di solfeggio. (L'obiettivo era prepararsi per l'ingresso al Conservatorio Reale)",
+            "location": "Jumet, Lodelinsart, Charleroi",
+            "skills": ["Creatività", "Disciplina", "Ascolto attivo", "Precisione", "Gestione dello sforzo"]
+        },
+        {
+            "start": "2016-07",
+            "end": "2017-01",
+            "description": "Formazione in mixologia e servizio clienti presso La Rhumerie di Charleroi, acquisendo competenze chiave nella gestione del bar, nella comunicazione e nella soddisfazione del cliente.",
+            "location": "Charleroi",
+            "skills": ["Servizio clienti", "Gestione del bar", "Comunicazione", "Lavoro sotto pressione", "Organizzazione", "Gestione della cassa"]
+        },
+        {
+            "start": "2017-01",
+            "end": "2018-06",
+            "description": "Mansioni temporanee presso Cora Châtelineau, principalmente nella logistica e nella gestione delle scorte, con un focus sull'organizzazione e sul rispetto delle scadenze strette.",
+            "location": "Châtelineau",
+            "skills": ["Organizzazione", "Gestione delle scorte", "Rigore", "Efficienza", "Rispetto delle scadenze"]
+        },
+        {
+            "start": "2018-07",
+            "end": "2018-10",
+            "description": "Formazione in carpenteria presso l'IFAPME con Mordant e Fils, sviluppando competenze pratiche nella fabbricazione e nell'assemblaggio di strutture in legno.",
+            "location": "Jumet",
+            "skills": ["Competenze tecniche", "Precisione", "Lavoro manuale", "Autonomia", "Sicurezza"]
+        },
+        {
+            "start": "2019-01",
+            "end": "2021-10",
+            "description": "Esperienza versatile nella ristorazione presso La Rustica: gestione della sala, preparazione del cibo e mixologia. Competenze chiave: lavoro di squadra, gestione della clientela e gestione delle priorità durante i periodi di alta affluenza.",
+            "location": "Thuillies",
+            "skills": ["Lavoro di squadra", "Gestione della clientela", "Versatilità", "Gestione delle priorità", "Reattività"]
+        },
+        {
+            "start": "2021-10",
+            "end": "2022-05",
+            "description": "Periodo di ricerca attiva di un impiego che corrisponda alle mie competenze e aspirazioni professionali, esplorando diverse industrie e opportunità nelle regioni di Charleroi e Thuin.",
+            "location": "Charleroi, Thuin e dintorni",
+            "skills": ["Strategia di ricerca", "Adattabilità", "Perseveranza", "Autonomia", "Sviluppo web", "Miglioramento dell'inglese"]
+        },
+        {
+            "start": "2022-05",
+            "end": "2023-04",
+            "description": "Posizione di ossicutter presso Industeel ArcelorMittal. Responsabilità: taglio preciso dei metalli, rispetto delle norme di sicurezza e ottimizzazione dei processi di produzione.",
+            "location": "Marchiennes-au-Pont",
+            "skills": ["Precisione", "Sicurezza", "Ottimizzazione", "Lavoro di squadra", "Rigore", "Patente di guida B"]
+        },
+        {
+            "start": "2023-09",
+            "end": "2024-03",
+            "description": "Operatore di produzione presso The Juicy Group. Ruolo: supervisione delle macchine di produzione, controllo qualità dei prodotti e rispetto degli standard di igiene.",
+            "location": "Leval-Trahegnies",
+            "skills": ["Controllo qualità", "Conformità agli standard", "Versatilità", "Organizzazione", "Efficienza"]
+        },
+        {
+            "start": "2024-03",
+            "end": "2024-08",
+            "description": "Mansioni temporanee presso Easy Fence. Partecipazione all'installazione e manutenzione di strutture di recinzione. Dimostrazione di versatilità ed efficienza sul campo.",
+            "location": "Gosselies",
+            "skills": ["Versatilità", "Manutenzione", "Efficienza", "Lavoro di squadra", "Gestione del tempo"]
+        },
+        {
+            "start": "2024-09",
+            "end": "2025-03",
+            "description": "Formazione intensiva presso BeCode, con immersione nello sviluppo web full-stack: apprendimento approfondito di JavaScript, Node.js, React e basi solide in HTML, CSS e SQL.",
+            "location": "Charleroi",
+            "skills": ["Sviluppo web", "JavaScript", "Node.js", "React", "HTML", "CSS", "SQL"]
+        }
+    ],
+
+        "en": [
+            {
+                "start": "1997-01",
+                "end": "2000-09",
+                "description": "Born in Chieti, Italy. My parents chose to settle in Belgium for better professional opportunities.",
+                "location": "Italy and Belgium",
+                "skills": ["Psychomotricity", "Communication", "Polymathy", "Empathy", "Italian"]
+            },
+            {
+                "start": "2000-09",
+                "end": "2009-06",
+                "description": "Primary education at Athénée Royal Orsini Dewerpe. Development of fundamental skills in mathematics, sciences, and languages.",
+                "location": "Jumet",
+                "skills": ["Analytical thinking", "Calculation", "Communication", "Teamwork", "Creativity", "French"]
+            },
+            {
+                "start": "2009-09",
+                "end": "2015-06",
+                "description": "Secondary education at Athénée Royal Orsini Dewerpe. Diverse academic path: Latin option to strengthen linguistic and analytical skills, then specialization in automobile mechanics to develop technical skills.",
+                "location": "Jumet",
+                "skills": ["Logical reasoning", "Technical skills", "Discipline", "CESI", "Basic management knowledge certificate", "English", "Dutch"]
+            },
+            {
+                "start": "2015-09",
+                "end": "2016-06",
+                "description": "Year dedicated to in-depth study of music: learning several instruments (guitar, piano, cello) and improving music theory basics. (Goal was to prepare for entry into the Royal Conservatory)",
+                "location": "Jumet, Lodelinsart, Charleroi",
+                "skills": ["Creativity", "Discipline", "Active listening", "Precision", "Effort management"]
+            },
+            {
+                "start": "2016-07",
+                "end": "2017-01",
+                "description": "Training in mixology and customer service at La Rhumerie de Charleroi, acquiring key skills in bar management, communication, and customer satisfaction.",
+                "location": "Charleroi",
+                "skills": ["Customer service", "Bar management", "Communication", "Working under pressure", "Organization skills", "Cash management"]
+            },
+            {
+                "start": "2017-01",
+                "end": "2018-06",
+                "description": "Temporary assignments at Cora Châtelineau, mainly in logistics and stock management, with a focus on organization and meeting tight deadlines.",
+                "location": "Châtelineau",
+                "skills": ["Organization", "Stock management", "Rigor", "Efficiency", "Deadline compliance"]
+            },
+            {
+                "start": "2018-07",
+                "end": "2018-10",
+                "description": "Carpentry training at IFAPME with Mordant and Fils, developing practical skills in the fabrication and assembly of wooden structures.",
+                "location": "Jumet",
+                "skills": ["Technical skills", "Precision", "Manual work", "Autonomy", "Safety"]
+            },
+            {
+                "start": "2019-01",
+                "end": "2021-10",
+                "description": "Versatile experience in hospitality at La Rustica: room management, food preparation, and mixology. Key skills: teamwork, customer management, and prioritization during busy periods.",
+                "location": "Thuillies",
+                "skills": ["Teamwork", "Customer management", "Versatility", "Prioritization", "Responsiveness"]
+            },
+            {
+                "start": "2021-10",
+                "end": "2022-05",
+                "description": "Active job search period matching my skills and professional aspirations, exploring various industries and opportunities in Charleroi and Thuin regions.",
+                "location": "Charleroi, Thuin and surrounding areas",
+                "skills": ["Job search strategy", "Adaptability", "Perseverance", "Autonomy", "Web development", "English improvement"]
+            },
+            {
+                "start": "2022-05",
+                "end": "2023-04",
+                "description": "Oxycutter position at Industeel ArcelorMittal. Responsibilities: precise metal cutting, safety compliance, and production process optimization.",
+                "location": "Marchiennes-au-Pont",
+                "skills": ["Precision", "Safety", "Optimization", "Teamwork", "Rigor", "Driving license B"]
+            },
+            {
+                "start": "2023-09",
+                "end": "2024-03",
+                "description": "Production operator at The Juicy Group. Role: supervising production machines, quality control of products, and ensuring hygiene standards are met.",
+                "location": "Leval-Trahegnies",
+                "skills": ["Quality control", "Standards compliance", "Versatility", "Organization", "Efficiency"]
+            },
+            {
+                "start": "2024-03",
+                "end": "2024-08",
+                "description": "Temporary assignments at Easy Fence. Participating in the installation and maintenance of fencing structures. Demonstrated versatility and efficiency in the field.",
+                "location": "Gosselies",
+                "skills": ["Versatility", "Maintenance", "Efficiency", "Teamwork", "Time management"]
+            },
+            {
+                "start": "2024-09",
+                "end": "2025-03",
+                "description": "Intensive training at BeCode, with immersion in full-stack web development: in-depth learning of JavaScript, Node.js, React, and solid foundations in HTML, CSS, and SQL.",
+                "location": "Charleroi",
+                "skills": ["Web development", "JavaScript", "Node.js", "React", "HTML", "CSS", "SQL"]
+            }
+        ]
+}
